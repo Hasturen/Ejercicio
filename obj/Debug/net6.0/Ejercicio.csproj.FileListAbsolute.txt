@@ -1,0 +1,15 @@
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\bin\Debug\net6.0\Ejercicio.exe
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\bin\Debug\net6.0\Ejercicio.deps.json
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\bin\Debug\net6.0\Ejercicio.runtimeconfig.json
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\bin\Debug\net6.0\Ejercicio.dll
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\bin\Debug\net6.0\ref\Ejercicio.dll
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\bin\Debug\net6.0\Ejercicio.pdb
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\obj\Debug\net6.0\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\obj\Debug\net6.0\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\obj\Debug\net6.0\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\obj\Debug\net6.0\Ejercicio.AssemblyInfo.cs
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\obj\Debug\net6.0\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\obj\Debug\net6.0\Ejercicio.dll
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\obj\Debug\net6.0\ref\Ejercicio.dll
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\obj\Debug\net6.0\Ejercicio.pdb
+C:\Users\jfria\Source\Repos\Ejercicio\Ejercicio\obj\Debug\net6.0\Ejercicio.genruntimeconfig.cache
